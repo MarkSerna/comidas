@@ -1,0 +1,18 @@
+.titulo-1{
+    color:goldenrod;
+    background-color:darkred;
+}
+body{
+    background-image: url(https://cdn.forbes.co/2022/01/1618321004_300175_1618321231_noticia_normal.jpg);
+    background-size: cover;
+}
+.button{
+    background-color: darkred;
+}
+.button{
+    color:white;
+}
+tr{
+    background-color:darkred;
+    color: whitesmoke;
+}
